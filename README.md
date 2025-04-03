@@ -25,7 +25,7 @@ DAX: Custom measures for sales growth and other KPIs.
 Excel: Data source for sales records and attributes.
 
 Dashboard Screenshot
-
+![Dashboard Preview](https://github.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard/blob/main/BlinkIT%20P-04/BlinkIT%20Dashboard.png)
 
 
 ## How to Use
