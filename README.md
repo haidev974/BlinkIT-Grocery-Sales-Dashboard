@@ -1,8 +1,8 @@
-# BlinkIT-Grocery-Sales
+# BlinkIT Grocery Sales
 
 ## Overview
 
-The BlinkIT Grocery Sales Dashboard is an interactive Power BI dashboard designed to provide key insights into grocery sales performance. It includes various KPIs, such as total sales, average sales, number of items sold, and customer ratings. The dashboard also features visual breakdowns by outlet type, location, item category, and sales trends over time.
+The BlinkIT Grocery Sales Dashboard is an interactive Power BI dashboard that provides key insights into grocery sales performance. It includes various KPIs, such as total sales, average sales, number of items sold, and customer ratings. The dashboard also features visual breakdowns by outlet type, location, item category, and sales trends over time.
 
 ## Features
 
@@ -24,7 +24,7 @@ DAX: Custom measures for sales growth and other KPIs.
 
 Excel: Data source for sales records and attributes.
 
-Dashboard Screenshot
+Dashboard Preview
 ![Dashboard Preview](https://github.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard/blob/main/BlinkIT%20P-04/BlinkIT%20Dashboard.png)
 
 
